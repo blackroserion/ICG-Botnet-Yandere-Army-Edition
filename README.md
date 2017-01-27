@@ -1,7 +1,7 @@
 # ICG-Botnet-Yandere-Army-Edition
 PHP Botnet For Ddos
 
-[!screenshot]https://3.bp.blogspot.com/-ryfo-yQDuUM/WIvcIM8LRyI/AAAAAAAAAaE/0CY-9t2TESQaIHOOofeMWNLWC4IUxOl0gCLcB/s1600/lock.png
+![screenshot](https://3.bp.blogspot.com/-ryfo-yQDuUM/WIvcIM8LRyI/AAAAAAAAAaE/0CY-9t2TESQaIHOOofeMWNLWC4IUxOl0gCLcB/s1600/lock.png)
 
 ______________________________________
 
@@ -61,17 +61,17 @@ SCREENSHOOT
 
 ______________________________________
 
-![screenshoot]https://1.bp.blogspot.com/-ezDpEyJZWVs/WIvbk5bvr-I/AAAAAAAAAZs/RD1HTgBb5ssozAdbR2eN9PtxTaIQITEuwCLcB/s640/Screenshot%2Bfrom%2B2017-01-28%2B06%253A11%253A58.png
+![screenshot](https://1.bp.blogspot.com/-ezDpEyJZWVs/WIvbk5bvr-I/AAAAAAAAAZs/RD1HTgBb5ssozAdbR2eN9PtxTaIQITEuwCLcB/s640/Screenshot%2Bfrom%2B2017-01-28%2B06%253A11%253A58.png)
 
-![screenshoot]https://1.bp.blogspot.com/-JvyaDJ5s8Mo/WIvbkhIhgfI/AAAAAAAAAZo/ujMZ8M5kShAVcaSqPjeQeE9wNFDdD8ovwCLcB/s1600/Screenshot%2Bfrom%2B2017-01-28%2B06%253A12%253A06.png
+![screenshot](https://1.bp.blogspot.com/-JvyaDJ5s8Mo/WIvbkhIhgfI/AAAAAAAAAZo/ujMZ8M5kShAVcaSqPjeQeE9wNFDdD8ovwCLcB/s1600/Screenshot%2Bfrom%2B2017-01-28%2B06%253A12%253A06.png)
 
-![screenshoot]https://4.bp.blogspot.com/-MiV4cFrercg/WIvbk6nLbHI/AAAAAAAAAZw/ypU3u-TGw9g4wquUNarnA3-9x-dTw7OEwCLcB/s1600/Screenshot%2Bfrom%2B2017-01-28%2B06%253A12%253A26.png
+![screenshot](https://4.bp.blogspot.com/-MiV4cFrercg/WIvbk6nLbHI/AAAAAAAAAZw/ypU3u-TGw9g4wquUNarnA3-9x-dTw7OEwCLcB/s1600/Screenshot%2Bfrom%2B2017-01-28%2B06%253A12%253A26.png)
 
-![screenshoot]https://4.bp.blogspot.com/-s2uDJN0Rm3Y/WIvbldA-u1I/AAAAAAAAAZ0/EhV-lI5P83UifdNTJa-lDmhc5p1IK6sogCLcB/s1600/Screenshot%2Bfrom%2B2017-01-28%2B06%253A12%253A36.png
+![screenshot](https://4.bp.blogspot.com/-s2uDJN0Rm3Y/WIvbldA-u1I/AAAAAAAAAZ0/EhV-lI5P83UifdNTJa-lDmhc5p1IK6sogCLcB/s1600/Screenshot%2Bfrom%2B2017-01-28%2B06%253A12%253A36.png)
 
-![screenshoot]https://4.bp.blogspot.com/-GapKGwnaHic/WIvblzjtjNI/AAAAAAAAAZ8/cGLNoSM9NmkIYVqmPqSfu0kxRE0pz7bawCLcB/s1600/Screenshot%2Bfrom%2B2017-01-28%2B06%253A12%253A42.png
+![screenshot](https://4.bp.blogspot.com/-GapKGwnaHic/WIvblzjtjNI/AAAAAAAAAZ8/cGLNoSM9NmkIYVqmPqSfu0kxRE0pz7bawCLcB/s1600/Screenshot%2Bfrom%2B2017-01-28%2B06%253A12%253A42.png)
 
-![screenshoot]https://2.bp.blogspot.com/-cPjGc0THf6A/WIvblmLY2nI/AAAAAAAAAZ4/bFwuZepHTVgIP1HOYgU-6wv9W3AVNgY4QCLcB/s1600/Screenshot%2Bfrom%2B2017-01-28%2B06%253A13%253A13.png
+![screenshot](https://2.bp.blogspot.com/-cPjGc0THf6A/WIvblmLY2nI/AAAAAAAAAZ4/bFwuZepHTVgIP1HOYgU-6wv9W3AVNgY4QCLcB/s1600/Screenshot%2Bfrom%2B2017-01-28%2B06%253A13%253A13.png)
 
-![screenshoot]https://1.bp.blogspot.com/-YeuYMrAmtaU/WIvbmEE7dqI/AAAAAAAAAaA/B0OReFFVyw0JzMmb_ARBYJ65fg8Zf9-RACLcB/s1600/Screenshot%2Bfrom%2B2017-01-28%2B06%253A13%253A35.png
+![screenshot](https://1.bp.blogspot.com/-YeuYMrAmtaU/WIvbmEE7dqI/AAAAAAAAAaA/B0OReFFVyw0JzMmb_ARBYJ65fg8Zf9-RACLcB/s1600/Screenshot%2Bfrom%2B2017-01-28%2B06%253A13%253A35.png)
 ______________________________________
