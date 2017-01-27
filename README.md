@@ -1,7 +1,7 @@
 # ICG-Botnet-Yandere-Army-Edition
 PHP Botnet For Ddos
 
-![screenshoot]https://3.bp.blogspot.com/-ryfo-yQDuUM/WIvcIM8LRyI/AAAAAAAAAaE/0CY-9t2TESQaIHOOofeMWNLWC4IUxOl0gCLcB/s1600/lock.png
+![screenshot]https://3.bp.blogspot.com/-ryfo-yQDuUM/WIvcIM8LRyI/AAAAAAAAAaE/0CY-9t2TESQaIHOOofeMWNLWC4IUxOl0gCLcB/s1600/lock.png
 
 ______________________________________
 
