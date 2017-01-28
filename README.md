@@ -26,7 +26,7 @@ How To Use ??
 
 ______________________________________
 
-1. Upload All Files And Folder To Your Webserver
+1. Upload All Files And Folder To Your Webserver default login password is : admin
 
 2. Change Password In file access.php on line 15 for safety purpose
 
